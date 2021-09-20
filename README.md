@@ -13,7 +13,7 @@
 <a href="https://www.mongodb.com/"><img src="https://github.com/jfjara/jfjara/blob/main/mongodb-226029.png" alt="MongoDB"/></a>
 <a href="https://www.docker.com/"><img src="https://github.com/jfjara/jfjara/blob/main/vertical-logo-monochromatic.png" alt="Docker"/></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/jfjara/jfjara/blob/main/1280px-Amazon_Web_Services_Logo.svg.png" alt="Amazon Web Services"/></a>
-
+<a href="https://github.com/"><img src="https://github.com/jfjara/jfjara/blob/main/github_icon.png" alt="Github"/></a>
 
 
 
