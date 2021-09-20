@@ -15,6 +15,7 @@
 <a href="https://aws.amazon.com/"><img src="https://github.com/jfjara/jfjara/blob/main/1280px-Amazon_Web_Services_Logo.svg.png" alt="Amazon Web Services"/></a>
 <a href="https://github.com/"><img src="https://github.com/jfjara/jfjara/blob/main/github_icon.png" alt="Github"/></a>
 <a href="https://spring.io/projects/spring-cloud-netflix"><img src="https://github.com/jfjara/jfjara/blob/main/netflixoss.png" alt="Netflix Oss"/></a>
+<a href="https://www.openapis.org/"><img src="https://github.com/jfjara/jfjara/blob/main/openapi.png" alt="OpenApi"/></a>
 
 
 
