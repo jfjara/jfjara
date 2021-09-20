@@ -3,7 +3,7 @@
 
 😄 My name is Juan Francisco Jara, I'm from Minas de Riotinto (Huelva - Spain)
 
-💻 Currently I am working in Redegal for Inditex client as Senior Backend developer. 
+💻 Currently I am working in Redegal for Inditex projects as Senior Backend developer. 
 
 📝 I love developing and clean code practises (Clean architectures like Hexagonal, SOLID priciples...)
 
