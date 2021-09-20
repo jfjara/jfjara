@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
+
 😄 My name is Juan Francisco Jara, I'm from Minas de Riotinto (Huelva - Spain)
 :computer: Currently I am working in Redegal for Inditex client as Senior Backend developer. 
-I love developing and clean code practises (Clean architectures like Hexagonal, SOLID priciples...)
--->
+:pencil: I love developing and clean code practises (Clean architectures like Hexagonal, SOLID priciples...)
+
 
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/jfjara/jfjara/blob/main/spring_boot_icon.png" alt="Spring boot framework"/></a>
 
