@@ -25,6 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfjara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jfjara)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2></h2>
+<h2>Conect with me</h2>
 
-
+<a href="https://www.linkedin.com/in/juan-francisco-jara-bellido-72103b153/"><img src="https://github.com/jfjara/jfjara/blob/main/linkedin.png" alt="Linkedin"/></a>
+<a href="https://es.stackoverflow.com/users/250162/jfjara"><img src="https://github.com/jfjara/jfjara/blob/main/E-CoWzaWUAIeIBB.png" alt="StackOverFlow"/></a>
+<a href="https://twitter.com/wan_fran"><img src="https://github.com/jfjara/jfjara/blob/main/logo.png" alt="Twitter"/></a>
