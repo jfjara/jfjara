@@ -9,7 +9,7 @@
 
 📝 I love developing and clean code practises (Clean architectures like Hexagonal, SOLID priciples...)
 
-<h2></h2>
+<h2>My current and favorite Stack</h2>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/jfjara/jfjara/blob/main/spring_boot_icon.png" alt="Spring boot framework"/></a>
 <a href="https://www.java.com/"><img src="https://github.com/jfjara/jfjara/blob/main/java.png" alt="Java"/></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/jfjara/jfjara/blob/main/mongodb-226029.png" alt="MongoDB"/></a>
