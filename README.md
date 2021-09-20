@@ -16,24 +16,15 @@
 <a href="https://github.com/"><img src="https://github.com/jfjara/jfjara/blob/main/github_icon.png" alt="Github"/></a>
 <a href="https://spring.io/projects/spring-cloud-netflix"><img src="https://github.com/jfjara/jfjara/blob/main/netflixoss.png" alt="Netflix Oss"/></a>
 <a href="https://www.openapis.org/"><img src="https://github.com/jfjara/jfjara/blob/main/openapi.png" alt="OpenApi"/></a>
+<a href="https://site.mockito.org/"><img src="https://github.com/jfjara/jfjara/blob/main/logo.jpg" alt="Mockito"/></a>
+<a href="https://cucumber.io/"><img src="https://github.com/jfjara/jfjara/blob/main/cucumber_icon.png" alt="cucumber"/></a>
 
 <h2></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfjara&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfjara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jfjara)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2></h2>
 
 
-
-
-<!--
-**jfjara/jfjara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
