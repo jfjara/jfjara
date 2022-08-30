@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfjara&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfjara)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfjara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juanfranciscojara@gmail.com)](https://github.com/anuraghazra/github-readme-stats)-->
 
