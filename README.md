@@ -5,7 +5,7 @@
 
 😄 My name is Juan Francisco Jara, I'm from Minas de Riotinto (Huelva - Spain)
 
-💻 Currently I am working in UST Global for Banco Santander projects as Lead Backend developer. 
+💻 Currently I am working in Plexus for Inditex projects as Lead Backend developer. 
 
 📝 I love developing and clean code practises (Clean architectures like Hexagonal, SOLID priciples...)
 
